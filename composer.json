@@ -1,5 +1,5 @@
 {
-  "name": "laravelista/comments",
+  "name": "derbalajr/comments",
   "description": "Comments for Laravel.",
   "keywords": [
     "laravel",
@@ -35,11 +35,5 @@
         "Laravelista\\Comments\\ServiceProvider"
       ]
     }
-  },
-  "repositories": [
-    {
-      "type": "vcs",
-      "url": "https://github.com/derbalajr/comments.git"
-    }
-  ]
+  }
 }
